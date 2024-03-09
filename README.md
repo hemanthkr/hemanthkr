@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there
 
-<!--
-**hemanthkr/hemanthkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+* Recent graduate in MSc. Data Science from the University of Bath, UK.
+* Skilled Full Stack Developer with experience in E-Commnerce and Finance Sectors.
+* Currently working on building my career as a Data Scientist. Look out for more projects coming up in my repos.
 
-Here are some ideas to get you started:
+## Skills
+* Python
+* Java
+* JavaScript
+* SQL
+* AWS, Azure, GCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+[LinkedIn](https://www.linkedin.com/in/hemanth-kr/)
