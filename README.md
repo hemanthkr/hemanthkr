@@ -1,4 +1,4 @@
-# Hello there
+# Hello there 👋
 
 ## About me
 * Recent graduate in MSc. Data Science from the University of Bath, UK.
